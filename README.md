@@ -1,1 +1,1 @@
-# Task-1
+This task contains data extraction from kaggle and cleaning and preprocessing using power query by performing null value filling, duplicates removal, text standardization, all performed and loaded onto Excel 
